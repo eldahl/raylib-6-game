@@ -78,3 +78,14 @@ android.*
 *.js
 !src/minshell.html
 !src/shell.html
+
+Makefile
+CMakeFiles/
+cmake_install.cmake
+src/cmake_install.cmake
+_deps/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CMakeCache.txt
+
+raylib-6-game/
